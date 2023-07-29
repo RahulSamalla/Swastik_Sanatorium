@@ -2,11 +2,8 @@
 Hospital Management System in java.
 This system has a home page from where the administrator can login. On logging in the user can add details of patients and doctors.
 
-## Screenshot
-###### Login Screen
-![alt Login Screen](https://github.com/vivekcsiam/Hospital-Management-System/raw/master/Images/screenshots/Login.png "Login Screen")
-###### Patient Screen
-![alt Patient Screen](https://github.com/vivekcsiam/Hospital-Management-System/raw/master/Images/screenshots/Patient.png "Patient Screen")
+
+
 
 
 ## Installation
